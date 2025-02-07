@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "252336169258",
+    "project_id": "habit-grid",
+    "storage_bucket": "habit-grid.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252336169258:android:d20d8fd33098e6691ffe53",
+        "android_client_info": {
+          "package_name": "com.regenesys.habitgrid.habit_grid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "252336169258-q960d2dce3vd93n3isp9tp34j9ff2vhq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.regenesys.habitgrid.habit_grid",
+            "certificate_hash": "dc3b591e90cfb30e0c4ce0ccd77719d62a95fafa"
+          }
+        },
+        {
+          "client_id": "252336169258-du5tdp9b1pa5ao9kpt3in1qqsg4rk5qb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnuFE9y47G11hfEJ8trxy1nAG2cGXF48I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "252336169258-du5tdp9b1pa5ao9kpt3in1qqsg4rk5qb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "252336169258-drrc5ot2sv4894tt40bb6ln5lfvnthmt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.regenesys.habitgrid.habitGrid"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
